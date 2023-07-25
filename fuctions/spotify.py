@@ -7,8 +7,6 @@ import numpy as np
 from sklearn.metrics.pairwise import linear_kernel
 from dotenv import load_dotenv, dotenv_values
 import os
-import time
-import streamlit as st
 from pandas.io.json import json_normalize
 
 
