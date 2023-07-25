@@ -1,9 +1,24 @@
-# SpotifyApp
-Aplicacion con la api de spotify
+### Paquetes
+Para este proyecto utilizamos:
+- Streamlit
+- Spotipy
+- Sklearn
+- Pandas
+- Numpy
+- Plotly
 
-#Objetivo 
-Crear una conexion con la api de spotify que me permita extraer los datos de un usuario para luego crear un algoritmo de recomendacion de musica.
+# App.md
 
-#Algorimo recomendacion de musica
+![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
-Para el algoritmo lo que hicimos fue agarrar dos sets de datos uno con las canciones mas escuchadas por el usuario y otro set de datos con las canciones relacionadas junto a los nuevos lanzamientos de la aplicacion.
+
+**Table of Contents**
+
+Objetivo
+=============
+
+Crear una conexión con la api de spotify que me permita extraer los datos de un usuario para luego crear un algoritmo de recomendación de música.
+
+Algoritmo de recomendacion 
+-------------
+Para el algoritmo lo que hicimos fue agarrar dos sets de datos uno con las canciones mas escuchadas por el usuario y otro set de datos con las canciones relacionadas junto a los nuevos lanzamientos de la aplicación.
