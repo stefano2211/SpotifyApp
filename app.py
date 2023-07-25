@@ -1,11 +1,11 @@
 import streamlit as st
-from streamlit_extras.metric_cards import style_metric_cards
+
 from fuctions.spotify import *
 
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import plost
+
 
 
 st.set_page_config(layout='wide', initial_sidebar_state='expanded')
