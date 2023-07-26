@@ -1,11 +1,13 @@
-### Paquetes
-Para este proyecto utilizamos:
+### Packages
+For this project we used
 - Streamlit
 - Spotipy
 - Sklearn
 - Pandas
 - Numpy
 - Plotly
+
+
 
 # App.md
 
@@ -14,11 +16,13 @@ Para este proyecto utilizamos:
 
 **Table of Contents**
 
-Objetivo
+Objective
 =============
 
-Crear una conexión con la api de spotify que me permita extraer los datos de un usuario para luego crear un algoritmo de recomendación de música.
+Create a connection to the spotify api that allows me to extract a user's data to then create a music recommendation algorithm.
 
-Algoritmo de recomendacion 
+Recommendation Algorithm 
 -------------
-Para el algoritmo lo que hicimos fue agarrar dos sets de datos uno con las canciones mas escuchadas por el usuario y otro set de datos con las canciones relacionadas junto a los nuevos lanzamientos de la aplicación.
+For the algorithm what we did was to grab two sets of data, one with the most listened songs by the user and another set of data with the songs related to the new releases of the application.
+
+
